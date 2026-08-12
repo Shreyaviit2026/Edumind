@@ -1,0 +1,14 @@
+{
+  "subject": "stqa",
+  "unit": "unit 1",
+  "created_at": "2026-08-12T07:33:34.715897",
+  "embedding_done": true,
+  "documents": [
+    {
+      "filename": "Roll_04_Navigating Software Testing Tools.pdf",
+      "uploaded_at": "2026-08-12T07:33:34.750199",
+      "path": "C:\\Edumind\\AI-Powered-Student-Learning-Assistant\\backend\\storage\\subjects\\stqa\\unit 1\\docs\\Roll_04_Navigating Software Testing Tools.pdf"
+    }
+  ],
+  "embedding_completed_at": "2026-08-12T07:33:45.165833"
+}
